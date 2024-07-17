@@ -19,4 +19,33 @@ Welcome to the **INFINITE IMAGE SCROLLER** project! This JavaScript mini-project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/infinite-image-scroller.git
+   git clone https://github.com/Gihansachith92/INFINITE-IMAGE-SCROLL.git
+
+## 🔧 Usage
+1. Open the index.html file in your browser to view the project.
+2. Scroll down to load more images.
+   
+## 🔑 API Key
+You need an Unsplash API key to fetch images. Follow these steps to get one:
+
+1. Sign up at Unsplash.
+2. Create a new application to get your API key.
+3. Replace YOUR_ACCESS_KEY in the code with your actual Unsplash API key.
+   
+## 📷 Screenshots
+
+## 🤝 Contributing
+1. Fork the project.
+2. Create your feature branch (git checkout -b feature/AmazingFeature).
+3. Commit your changes (git commit -m 'Add some AmazingFeature').
+4. Push to the branch (git push origin feature/AmazingFeature).
+5. Open a pull request.
+   
+## 📝 License
+Distributed under the MIT License. See LICENSE for more information.
+
+## 📬 Contact
+- Gihan Sachith - gihansachith92@gmail.com
+
+- Project Link: https://github.com/Gihansachith92/INFINITE-IMAGE-SCROLL
+   
