@@ -33,6 +33,9 @@ You need an Unsplash API key to fetch images. Follow these steps to get one:
 3. Replace YOUR_ACCESS_KEY in the code with your actual Unsplash API key.
    
 ## 📷 Screenshots
+- Link - https://gihansachith92.github.io/INFINITE-IMAGE-SCROLL/
+![image](https://github.com/user-attachments/assets/b4a9d58d-5f5c-4ec3-bda3-d64e9271654d)
+
 
 ## 🤝 Contributing
 1. Fork the project.
